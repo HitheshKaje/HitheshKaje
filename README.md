@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/red-futuristic-bg.svg"
+  <img src="./assets/red_futuristic_animated_full_background(1).svg"
        width="100%"
        alt="Animated futuristic background">
 </p>
