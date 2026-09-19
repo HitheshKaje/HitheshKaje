@@ -1,8 +1,14 @@
-<p align="center">
-  <img src="./assets/red_futuristic_animated_full_background(1).svg"
-       width="100%"
-       alt="Animated futuristic background">
-</p>
+<table width="100%">
+<tr>
+<td width="100%" align="center">
+
+<img src="./assets/HITHESH_K_exact_style_letter_animation.gif"
+     width="100%"
+     alt="Hithesh K">
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
