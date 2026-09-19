@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./assets/red-futuristic-bg.svg"
+       width="100%"
+       alt="Animated futuristic background">
+</p>
+
 <div align="center">
 
 # 👋 Hi, I'm Hithesh Kaje
